@@ -105,4 +105,4 @@ theme: landscape
 deploy:
   type: git
   repository: https://github.com/anonymity1/anonymity1.github.io.git
-  branch: master
+  branch: main
