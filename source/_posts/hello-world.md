@@ -1,5 +1,11 @@
 ---
 title: Hello World
+date: 2021-01-26 19:23:48
+tags: 随笔
 ---
 
-> you can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
+看到[徐哥博客](https://ravex.gitee.io)写的不亦乐乎，在复习计算复杂性时受益良多。本菜鸡表示对此心生神往，于是在2021年寒假空闲时简单搭个博客，记录一些闲暇时的感悟。
+
+## 附言
+
+顺便说一下，徐哥写了不少计算复杂性的博客，还向我秀了一波成绩，但还是没我高:-)，（当然我没告诉他最后我的分数）。
