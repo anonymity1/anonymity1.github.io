@@ -3,7 +3,9 @@ title: HiveD
 date: 2021-04-06 10:48:03
 tags: osdi2020
 ---
-多租户在GPU集群上进行DL训练是一种较为常见的场景，然而目前GPU集群资源分配是基于quota的，即每个任务指定需要的GPU数目，这样的粗粒度资源调度方式容易造成更长的累积延迟，本文因此提出了一种更细粒度GPU集群资源调度方式。（研究机构：北大，Microsoft，港大）
+HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees (OSDI' 2020)，北大，Microsoft，港大合作的一篇文章。
+
+多租户在GPU集群上进行DL训练是一种较为常见的场景，然而目前GPU集群资源分配是基于quota的，即每个任务指定需要的GPU数目，这样的粗粒度资源调度方式容易造成更长的累积延迟，本文因此提出了一种更细粒度GPU集群资源调度方式。
 
 <!-- more -->
 
