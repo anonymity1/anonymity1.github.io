@@ -1,7 +1,7 @@
 ---
 title: clockwork
 date: 2021-04-07 10:31:59
-tags: osdi2020
+tags: 论文阅读
 ---
 Serving DNNs like Clockwork: Performance Predictability from the bottom up (OSDI' 2020) ，德国Max-Planck 软件系统研究所和美国Emory university合作的一篇文章。
 

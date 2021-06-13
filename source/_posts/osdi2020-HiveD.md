@@ -1,7 +1,7 @@
 ---
 title: HiveD
 date: 2021-04-06 10:48:03
-tags: osdi2020
+tags: 论文阅读
 ---
 HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees (OSDI' 2020)，北大，Microsoft，港大合作的一篇文章。
 
