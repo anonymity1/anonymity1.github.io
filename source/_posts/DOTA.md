@@ -86,7 +86,9 @@ tags: 随笔
 |OmniKnight|全方位 骑士| 全能骑士 | 3 |
 |Oracle| 启示 | 神谕者 | 3 |
 |OutworldDestroyer| 世界外的 毁灭者 | 黑曜毁灭者；殁境毁灭者 | 3 |
+|PhantomLancer| 幻影 枪骑兵 | 幻影长矛手 | 1 |
 |Phoenix| 菲尼克斯（凤凰）| 凤凰 | 3 |
+|Pingolier| 穿山甲 | 石鳞剑士（新） | 3 |
 |PrimalBeast|原始 野兽| 默（新） | 4 |
 |Puck| 顽皮的小精灵 | 精灵龙；帕克 | 3 |
 |Pudge| 矮胖的人 | 屠夫；帕吉 | 3 |
