@@ -2,10 +2,10 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
+author: Hesheng Sun
 language: en
 timezone: ''
-url: 'http://example.com'
+url: 'https://github.com/anonymity1/anonymity1.github.io/'
 root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null

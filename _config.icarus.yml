@@ -246,15 +246,15 @@ widgets:
             Facebook:
                 icon: fab fa-facebook
                 url: 'https://facebook.com/hesheng.sun'
-            Twitter:
-                icon: fab fa-twitter
-                url: 'https://twitter.com'
-            Dribbble:
-                icon: fab fa-dribbble
-                url: 'https://dribbble.com'
-            RSS:
-                icon: fas fa-rss
-                url: /
+            # Twitter:
+            #     icon: fab fa-twitter
+            #     url: 'https://twitter.com'
+            # Dribbble:
+            #     icon: fab fa-dribbble
+            #     url: 'https://dribbble.com'
+            # RSS:
+            #     icon: fas fa-rss
+            #     url: /
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -273,8 +273,8 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Hexo: 'https://hexo.io'
-            # Bulma: 'https://bulma.io'
+            Ravex: 'https://ayathecrow.github.io/'
+            # Hexo: 'hexo.io'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
