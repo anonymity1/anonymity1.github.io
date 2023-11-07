@@ -103,9 +103,9 @@ navbar:
     menu:
         Home: /
         Archives: /archives
-        Categories: /categories
+        # Categories: /categories
         Tags: /tags
-        About: /about
+        # About: /about
     # Links to be shown on the right of the navigation bar
     links:
         Github:
@@ -211,7 +211,7 @@ sidebar:
     # Left sidebar configurations
     left:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: false
+        sticky: true
     # Right sidebar configurations
     right:
         # Whether the sidebar sticks to the top when page scrolls
