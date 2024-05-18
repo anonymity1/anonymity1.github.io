@@ -267,14 +267,14 @@ widgets:
         # Maximum level of headings to show (1-6)
         depth: 3
     # Recommendation links widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: links
-        # Names and URLs of the sites
-        links:
-            Ravex: 'https://ayathecrow.github.io/'
-            # Hexo: 'hexo.io'
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: left
+    #     type: links
+    #     # Names and URLs of the sites
+    #     links:
+    #         Ravex: 'https://ayathecrow.github.io/'
+    #         # Hexo: 'hexo.io'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
